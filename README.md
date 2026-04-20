@@ -1,1 +1,2 @@
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-orange?style=for-the-badge&logo=googlechrome)](https://chromewebstore.google.com/detail/%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%89%D0%B8%D0%BA-%D1%81-%D1%88%D0%B8%D0%BA%D0%B8%D0%BC%D0%BE%D1%80%D0%B8/loaamhpfpndikhfgmhehndnehbpegegp?authuser=0&hl=ru)
+[![Firefox Add-ons](https://img.shields.io/badge/Firefox%20Add--ons-Install-orange?style=for-the-badge&logo=firefoxbrowser)](https://addons.mozilla.org/ru/firefox/addon/shikiwatch-helper/)
